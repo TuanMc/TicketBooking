@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --open",
     "build": "webpack -d"
   },
-  "author": "",
+  "author": "McTuan",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.7",
