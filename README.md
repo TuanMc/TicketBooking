@@ -1,6 +1,6 @@
 # TicketBooking
 
-This is the documatation for Ticket Booking Project
+## This is the documatation for Ticket Booking Project
 
 Step 1: Download or Clone the Project
 
